@@ -24,7 +24,7 @@ For this task, I developed a **Tic Tac Toe Game** which includes both **Player v
 ---
 ## Links
 - **GitHub Repository:** https://github.com/vikash4509/SCT_WD_3.git
-- **Live Demo:** https://stopwatch-web-application-project.netlify.app/
+- **Live Demo:** https://tic-tak-toe-project.netlify.app/
 ---
 
 ## Learnings from this Task  
